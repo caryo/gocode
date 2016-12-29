@@ -1,0 +1,2 @@
+go clean -i -r -x -n newmath
+go build -a -p 4 -race -v -work -x -n newmath
