@@ -11,6 +11,8 @@ func a(p interface{}) {
          fmt.Printf("%d: Hello World.\n", p)
       case string:
          fmt.Printf("%s: Hello World.\n", p)
+      case float32:
+         fmt.Printf("%f: Hello World.\n", p)
       default:
    }
 }

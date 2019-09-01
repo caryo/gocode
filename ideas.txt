@@ -1,0 +1,4 @@
+https://www.thepolyglotdeveloper.com/2017/05/network-sockets-with-the-go-programming-language/
+https://gist.github.com/bcho/8635228
+https://stackoverflow.com/questions/36417199/how-to-broadcast-message-using-channel
+https://holwech.github.io/blog/Creating-a-simple-UDP-module/
